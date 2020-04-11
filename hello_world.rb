@@ -1,4 +1,2 @@
-puts "one"
-# puts "tomato" 
-puts "two"
-puts "potato" 
+puts "Hello World"
+# PogU first program in ruby
